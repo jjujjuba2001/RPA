@@ -18,7 +18,7 @@ for j in range(7):
         
     elif result[j] == result[6]:
         print ("보너스 번호 : ", result[j])
-        break
+        
     else:    
         print (result[j], end= ', ')
 
