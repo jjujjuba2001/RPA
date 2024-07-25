@@ -13,7 +13,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 
 id = 'hwjung@inzisoft.com'
-pw = 'nara0805~!'
+pw = '********'
 
 lable = ['팀원', '팀장', '대표이사', '근태 담당자', '관리자']           # 권한별 계정 리스트에 담기
 
